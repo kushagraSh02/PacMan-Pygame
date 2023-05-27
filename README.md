@@ -1,7 +1,7 @@
 # PacMan-Pygame
 The traditional Pacman game created using pygame library of python.
 
-This project was the result of my learning python and specifically the pygame module. 
+This project was the result of me learning python and specifically the pygame module. 
 
 Here, I try to replicate the world famous pacman game using the pygame module.
 
